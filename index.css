@@ -71,14 +71,27 @@
     font-size: 16px;
 }
 .profile-box h3{
-    font-size: 22px;
+    font-size: 25px;
+    font-weight: 800;
     margin-top: 20px;
     font-weight: 500;
 }
-.social-media img{
-    width: 20px;
-    margin: 30px 5px;
+.name{
+    font-size: 16px;
+}
+.social-media{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
     cursor: pointer;
 }
-rita sharma
-https://www.facebook.com/profile.php?id=100095569442227
+.icon{
+    color: white;
+    margin: 20px 0;
+    font-size: 20px;
+
+}
+
+/* rita sharma
+https://www.facebook.com/profile.php?id=100095569442227 */
